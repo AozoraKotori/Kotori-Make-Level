@@ -3,7 +3,7 @@ rolling_levelid=15
 levelid=15
 
 [general]
-firstlevel=13level
+firstlevel=LEVEL_000
 start=4level
 author=Aozora Kotori
 name=Kotori Make Level
