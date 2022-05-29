@@ -1,10 +1,10 @@
-[levels]
-rolling_levelid=15
-levelid=15
-
 [general]
-firstlevel=13level
-start=4level
-author=Aozora Kotori
 name=Kotori Make Level
+author=Aozora Kotori
+start=Map
+firstlevel=LEVEL_000
+
+[levels]
+levelid=15
+rolling_levelid=15
 
