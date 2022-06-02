@@ -5,6 +5,6 @@ start=Map
 firstlevel=LEVEL_000
 
 [levels]
-levelid=15
-rolling_levelid=15
+levelid=24
+rolling_levelid=24
 
